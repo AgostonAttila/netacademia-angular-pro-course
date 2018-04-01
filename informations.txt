@@ -1,0 +1,84 @@
+npm install firebase@4.2.0 angularfire2@4.0.0-rc.2 --save
+https://github.com/angular/angularfire2
+
+npm i font-awesome --save
+
+
+https://rxviz.com/
+https://github.com/btroncone
+http://reactivex.io/rxjs/
+https://www.learnrxjs.io/
+
+
+https://app-manifest.firebaseapp.com/
+
+https://firebase.google.com/docs/firestore/solutions/presence
+
+
+npm uninstall --global @angular/cli
+npm install --global @angular/cli@1.6.0-rc.0
+
+
+ng new valami --service-worker --routing true --styles=scss
+
+npm uninstall --save angular2-moment angularfire2 bootstrap firebase fonta-awesome ngx-bootstrap
+npm install --save angular2-moment angularfire2 bootstrap@next firebase fonta-awesome ngx-bootstrap
+
+
+https://github.com/angular/angular-cli/wiki/build
+
+ng build--prod
+
+npm i -g firebase-tools
+
+Angular Universal!!! server render
+
+firebase login
+firebase init
+->hosting
+->dist
+->no index html
+
+firebase deploy
+
+firebase use --add
+
+https://hnpwa.com/
+
+angular http2
+
+ng-pwa-tools
+
+
+firebase init ->functions  -> y
+
+npm install --save-dev ts-loader webpack-node-externals webpack
+
+{
+  "rules": {
+    //".read":  "true",
+    ".write": "auth !== null",
+      "users":{
+        "$user_id":{
+          ".read":"auth.uid == $user_id"
+        }
+      }
+  }
+}
+
+
+firebase http functions  ->CORS beállítása 
+
+Jennifer Person youtube cloud functions Cloud functions tutorials
+The Firebase Database For SQL Developers youtube
+Firebase hivatalos ytube csatornája
+
+Mozilla webAPI
+
+JHipster Java +angular
+
+
+
+
+
+

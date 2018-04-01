@@ -1,7 +1,0 @@
-https://rxviz.com/
-
-https://github.com/btroncone
-
-http://reactivex.io/rxjs/
-
-https://www.learnrxjs.io/
